@@ -1,4 +1,4 @@
-**AWS Comprehensive SOC Lab Setup**
+**AWS SOC Lab Setup**
 
 This list is a set of intruction to build an AWS SOC Lab using the following:
 1. Security Onion 2.4 or greater AMI instance
