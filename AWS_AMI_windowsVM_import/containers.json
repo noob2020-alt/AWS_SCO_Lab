@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "windows11-docs",
+        "S3Key": "awswin.ova"
+    }
+  }
+]
