@@ -1,6 +1,6 @@
 # QUICK LAB SETUP
 
- ##** NOTE: THIS LAB SETUP IS NOT MEANT FOR PRODUCTION USE**
+ ## ** NOTE: THIS LAB SETUP IS NOT MEANT FOR PRODUCTION USE**
  
 This lab setup is not fully comprehensive and should only be used for testing and learning purposes.
 
