@@ -15,3 +15,7 @@ This list is a set of intruction to build an AWS SOC Lab using the following:
 
 
 If you have any suggestions, improvements, or tips, please send a message.
+
+NOTE: None of the instances or IP associated with this SOC lab setup exist.
+Please use this guide responsibly. 
+I am not responsible for misuse of the material here. 
