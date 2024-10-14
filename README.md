@@ -6,4 +6,12 @@ This list is a set of intruction to build an AWS SOC Lab using the following:
 3. A complete guide on how to upload a WIndows 11 .ova image to AWS for deployment into the SOC lab. 
 
 
+<img width="1729" alt="Pasted image 20241012144632" src="https://github.com/user-attachments/assets/9332199c-2602-4845-8641-6fa73dc44fd7">
+
+
+
+
+
+
+
 If you have any suggestions, improvements, or tips, please send a message.
