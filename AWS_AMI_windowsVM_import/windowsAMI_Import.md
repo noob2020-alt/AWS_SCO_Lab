@@ -185,7 +185,7 @@ Optional: Description
 
 
 
-Run the following command in your terminal to begin the upload process:
+Run the following command in your terminal to create an AMI on your AWS account from the .ova you copied to the s3 bucket:
 
 
 ```
